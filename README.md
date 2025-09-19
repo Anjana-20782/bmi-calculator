@@ -1,2 +1,2 @@
-# bmi-calculator
-task test example
+# BMI-calculator
+calculator test example
